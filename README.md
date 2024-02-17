@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @masumkhan081
-- 👀 I’m a full stack developer (MERN)
-- 🌱 I’m a deep learning enthusiast.
-- 💞️ I’m looking for job and open to remote job
-- 📫 How to reach me: masumkhan081@gmail.com ,  FB:  https://www.facebook.com/fanofnietzsche
+- 👀 Full Stack developer (MERN,PERN)
+- 🌱 Deep learning enthusiast.
+- 💞️ Open to remote opportunities
+- 📫 Gmail: masumkhan081, LIN: linkedin.com/in/masumkhan FB: facebook.com/fanofnietzsche
 
 <!---
 masumkhan081/masumkhan081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
